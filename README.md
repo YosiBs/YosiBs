@@ -49,7 +49,7 @@
 
 
 <p align="center">
-  <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" alt="R studio" width="40" height="40"/></a>
+  
   <a href="https://swagger.io/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg" alt="premiere pro" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="after effects" width="40" height="40"/></a>
