@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Yosi Ben Shushan</h1>
-<h3 align="center">A passionate software developer from Israel</h3>
+<h3 align="center">A Passionate Software Developer from Israel</h3>
 
 
 
 
-<h3 align="center">🌱 I am currently a third-year software engineering student specializing in Android mobile application development, while actively pursuing skills in Full Stack Web Development through Udemy.</h3> 
+<h3 align="center">🌱 Software Engineer | Passionate About Building Reliable Systems & Modern Web Tech | Seeking a Fulltime Job in the Software Engineer Field.</h3> 
 <p align="center">
   <img alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 </p>
@@ -49,7 +49,6 @@
 
 
 <p align="center">
-  
   <a href="https://swagger.io/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg" alt="premiere pro" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="after effects" width="40" height="40"/></a>
