@@ -1,67 +1,81 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Yosi Ben Shushan</h1>
-<h3 align="center">A Passionate Software Developer from Israel</h3>
+# Yosi Ben Shushan
 
+```
+// Software Engineer · Israel
+```
 
+*Building reliable systems and modern web experiences.*
+*Passionate about clean architecture, full-stack development, and shipping products that matter.*
 
+[![Email](https://img.shields.io/badge/YosiBs21@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=378add)](mailto:YosiBs21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/yosi-ben-shushan-869a5a248/)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=e1306c)](https://www.instagram.com/yosi_bs/)
 
-<h3 align="center">🌱 Software Engineer | Passionate About Building Reliable Systems & Modern Web Tech | Seeking a Fulltime Job in the Software Engineer Field.</h3> 
-<p align="center">
-  <img alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-</p>
+</div>
 
-<br><br>
+---
 
+### 🟢 Open to Work
 
-<h3 align="center">📫 How to reach me:</h3>
-<h3 align="center"> YosiBs21@gmail.com</h3>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.instagram.com/yosi_bs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yosi_bs" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yosi-ben-shushan-869a5a248/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Yosi Ben Shushan" height="35" width="35" /></a>
-<a href="https://www.facebook.com/yosi.y.yosi.9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Yosi Ben Shushan" height="35" width="35" /></a>
-</p>
+> Actively seeking a **full-time Software Engineering position** — backend, full-stack, or mobile.
+> Let's build something great together.
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/></a>
-</p>
+---
 
+### 🛠️ Tech Stack
 
+**Frontend**
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572b6)
 
-<p align="center">
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg" alt="premiere pro" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="after effects" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/></a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Visual Studio" width="40" height="40"/></a>
-</p>
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6db33f)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=f89820)
+![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat-square&logo=dotnet&logoColor=512bd4)
 
+**Languages**
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab)
+![Swift](https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=f05138)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=a8b9cc)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=239120)
 
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-0d1117?style=flat-square&logo=microsoftsqlserver&logoColor=cc2927)
 
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05032)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=fcc624)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=ff6c37)
+![Swagger](https://img.shields.io/badge/Swagger-0d1117?style=flat-square&logo=swagger&logoColor=85ea2d)
+![SoapUI](https://img.shields.io/badge/SoapUI-0d1117?style=flat-square&logo=soapui&logoColor=white)
 
+**Mobile**
+![Android](https://img.shields.io/badge/Android-0d1117?style=flat-square&logo=android&logoColor=3ddc84)
+![iOS](https://img.shields.io/badge/iOS-0d1117?style=flat-square&logo=apple&logoColor=white)
 
-<br>
+---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YosiBs&show_icons=true&locale=en&layout=compact" alt="YosiBs" /></p>
+### 📊 GitHub Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YosiBs&" alt="YosiBs" /></p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YosiBs&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378add&text_color=8faec9" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YosiBs&theme=tokyonight&hide_border=true&background=0d1117&ring=378add&fire=1d9e75&currStreakLabel=8faec9" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with care · Always learning · Open to collaboration</sub>
+</div>
